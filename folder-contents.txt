@@ -1,0 +1,10 @@
+.classpath
+.idea
+.project
+.settings
+ascii10.txt
+bin
+folder-contents.txt
+replTest1.txt &
+replTest2.txt &
+src
